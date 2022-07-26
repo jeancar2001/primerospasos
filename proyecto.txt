@@ -1,6 +1,7 @@
---------------------------------------------------------------------------
+-------------------------------------------------------------------------
 encabezado:
 
+<<<<<<< HEAD
 trabajando en el encabezado 
 soy jean carlo todo correcto
 
@@ -8,15 +9,17 @@ actualizando los datos y ver si coje los datos
 lo dejare aqui encabezado
 
 
+=======
+>>>>>>> cuerpo
 
 
 
 -----------------------------------------------------------------------------
 cuerpo:
 
-
-
-
+ola soy  yancarlo
+este es el cuerpo que estoy desarrolando y vamos a seguir continnuando mas tarde 
+por ahora lo dejare aqui
 
 
 

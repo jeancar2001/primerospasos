@@ -8,7 +8,8 @@ encabezado:
 cuerpo:
 
 ola soy  yancarlo
-este es el cuerpo que estoy desarrolando y vamos a seguir continnuando mas tarde
+este es el cuerpo que estoy desarrolando y vamos a seguir continnuando mas tarde 
+por ahora lo dejare aqui
 
 
 

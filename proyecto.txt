@@ -29,9 +29,9 @@ firnal:
 
 
 
+error en el final
 
-
-
+ texto agrandado y extendido
 
 
 ------------------------------------------------------------------------------
